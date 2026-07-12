@@ -1,0 +1,71 @@
+# História do Git e GitHub
+> Anotação desenvolvida durante meus estudos de Git e GitHub no projeto Roadmap 365.
+
+Antes do Git, diversos sistemas de controle de versão eram utilizados para gerenciar alterações em projetos de software.
+
+| Sistema | Ano | Tipo | Características |
+| :------ | :--: | :--: | :-------------- |
+| **CVS** | 1985 | Centralizado | Open Source, lento e com diversas limitações. |
+| **SVN (Subversion)** | 2000 | Centralizado | Evolução do CVS, porém ainda dependia de um servidor central. |
+| **BitKeeper** | 2000 | Distribuído | Proprietário, rápido e utilizado no desenvolvimento do Kernel Linux. |
+| **Git** | 2005 | Distribuído | Open Source, extremamente rápido e atualmente o padrão da indústria. |
+
+---
+
+## Como surgiu o Git?
+
+O Git foi criado em **2005** por **Linus Torvalds**, criador do Linux.
+
+Na época, o desenvolvimento do Kernel Linux utilizava o **BitKeeper**, um sistema de controle de versão distribuído e proprietário. Após divergências relacionadas ao seu licenciamento, a empresa **BitMover** revogou a licença gratuita utilizada pela comunidade Linux.
+
+Como consequência, Linus Torvalds desenvolveu uma nova ferramenta de controle de versão.
+
+Em aproximadamente **10 dias**, nasceu o **Git**, com os seguintes objetivos:
+
+- Ser distribuído;
+- Ser Open Source;
+- Ser extremamente rápido;
+- Suportar projetos de grande porte;
+- Garantir a integridade do histórico de alterações.
+
+---
+
+## Como surgiu o GitHub?
+
+O **GitHub** foi lançado em **2008** como uma plataforma para hospedagem de repositórios Git na internet.
+
+Seus fundadores foram:
+
+- Chris Wanstrath
+- PJ Hyett
+- Tom Preston-Werner
+- Scott Chacon
+
+Seu principal objetivo era facilitar a colaboração entre desenvolvedores por meio de recursos como:
+
+- Pull Requests;
+- Issues;
+- Code Review;
+- GitHub Pages;
+- Organização de projetos.
+
+Em **2018**, o GitHub foi adquirido pela **Microsoft**, mantendo sua filosofia voltada ao desenvolvimento colaborativo e ao software livre.
+
+---
+
+## Resumo
+
+- O **CVS** e o **SVN** eram sistemas centralizados.
+- O **BitKeeper** foi amplamente utilizado no desenvolvimento do Kernel Linux.
+- O **Git** foi criado por **Linus Torvalds** em **2005** após problemas de licenciamento com o BitKeeper.
+- O **GitHub** surgiu em **2008** para hospedar repositórios Git e facilitar a colaboração entre desenvolvedores.
+- Em **2018**, o GitHub foi adquirido pela **Microsoft**.
+- Atualmente, **Git** e **GitHub** formam um dos principais ecossistemas utilizados no desenvolvimento de software.
+
+---
+
+## Referências
+
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Documentação oficial do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub — Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)

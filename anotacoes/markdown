@@ -1,0 +1,42 @@
+# Markdown
+> Anotação desenvolvida durante meus estudos de Git e GitHub no projeto Roadmap 365.
+
+## Formatação
+
+| Recurso           | Sintaxe                    |
+| :---------------- | :------------------------- |
+| Negrito           | `**texto**` ou `__texto__` |
+| Itálico           | `*texto*` ou `_texto_`     |
+| Negrito + Itálico | `***texto***`              |
+| Tachado           | `~~texto~~`                |
+
+## Estrutura
+
+* Títulos: `#` até `######`
+* Linha horizontal: `---`
+* Lista numerada: `1. Item`
+* Lista com marcadores: `- Item`
+* Lista de tarefas: `- [ ]` e `- [x]`
+
+## Recursos
+
+* Link: `[Texto](https://site.com)`
+* Imagem: `![Descrição](imagem.png)`
+* Código em linha: `` `código` ``
+* Bloco de código: <code>```linguagem</code>
+* Citação: `>`
+* Menção: `@usuario`
+* Emojis: `🚀` ou `:rocket:`
+* Escape de caracteres: `\`
+
+## Resumo
+
+* Markdown é uma linguagem de marcação simples utilizada para formatar textos.
+* É amplamente utilizada em README.md, documentações e no GitHub.
+* Permite criar títulos, listas, tabelas, links, imagens e blocos de código de forma rápida e legível.
+
+## Referências
+
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Documentação oficial do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub — Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)

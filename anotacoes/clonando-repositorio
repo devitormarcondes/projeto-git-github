@@ -1,0 +1,24 @@
+# Clonando um Repositório
+> Anotação desenvolvida durante meus estudos de Git e GitHub no projeto Roadmap 365.
+
+**O que é?**
+
+Clonar um repositório significa criar uma cópia completa de um repositório remoto (GitHub) na sua máquina local. Essa cópia já vem com todo o histórico de commits e já está conectada ao repositório original, permitindo fazer alterações, commits e enviar mudanças (`git push`), caso você tenha permissão.
+
+## Como clonar usando o GitHub Desktop
+
+1. Abra o **GitHub** no navegador.
+2. Acesse o repositório que deseja clonar.
+3. Clique no botão **`<> Code`**.
+4. Selecione **Open with GitHub Desktop**.
+5. O GitHub Desktop abrirá automaticamente.
+6. Escolha a pasta onde deseja salvar o projeto.
+7. Clique em **Clone**.
+
+Após isso, o repositório estará disponível no seu computador e o Git já estará fazendo o versionamento dele.
+
+## Referências
+
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Documentação oficial do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub — Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)

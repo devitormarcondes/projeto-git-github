@@ -1,0 +1,34 @@
+# Issues
+> Anotação desenvolvida durante meus estudos de Git e GitHub no projeto Roadmap 365.
+
+## O que são Issues?
+
+Issues são registros utilizados no GitHub para organizar problemas, bugs, melhorias, novas funcionalidades e tarefas de um projeto.
+
+Elas permitem documentar discussões, definir responsáveis, adicionar etiquetas (labels) e acompanhar o andamento do trabalho.
+
+---
+
+## Issue x Pull Request
+
+| Issue                                     | Pull Request                                     |
+| :---------------------------------------- | :----------------------------------------------- |
+| Registra problemas, tarefas ou melhorias. | Contém alterações no código.                     |
+| Utilizada para planejamento e discussão.  | Propõe a incorporação das alterações ao projeto. |
+| Não modifica o código.                    | Passa por revisão antes de ser aceita.           |
+
+---
+
+## Resumo
+
+* **Issues** servem para organizar e acompanhar tarefas de um projeto.
+* **Pull Requests** servem para propor alterações no código.
+* Normalmente, uma **Issue** identifica o que deve ser feito e um **Pull Request** apresenta a solução.
+
+---
+
+## Referências
+
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Documentação oficial do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub — Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)

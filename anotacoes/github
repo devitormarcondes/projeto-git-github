@@ -1,0 +1,45 @@
+# GitHub
+> Anotação desenvolvida durante meus estudos de Git e GitHub no projeto Roadmap 365.
+
+## O que é GitHub?
+
+GitHub é uma plataforma de hospedagem de repositórios Git na nuvem. Ela permite armazenar, compartilhar e sincronizar projetos, facilitando a colaboração entre desenvolvedores.
+
+---
+
+## Para que serve?
+
+* Hospedar repositórios Git.
+* Compartilhar projetos.
+* Trabalhar em equipe.
+* Manter backup dos projetos.
+* Gerenciar Pull Requests, Issues e revisões de código.
+* Construir um portfólio profissional.
+* Contribuir para projetos Open Source.
+
+---
+
+## Git x GitHub
+
+| Git                                         | GitHub                                        |
+| :------------------------------------------ | :-------------------------------------------- |
+| Sistema de Controle de Versão.              | Plataforma de hospedagem de repositórios Git. |
+| Gerencia o histórico do projeto localmente. | Armazena e compartilha repositórios na nuvem. |
+| Funciona offline na maioria das operações.  | Requer internet para sincronização.           |
+
+---
+
+## Resumo
+
+* **Git** controla as versões de um projeto.
+* **GitHub** hospeda repositórios Git na nuvem.
+* O Git pode ser utilizado sem o GitHub.
+* Juntos, Git e GitHub tornam o desenvolvimento colaborativo mais simples e organizado.
+
+---
+
+## Referências
+
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Documentação oficial do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub — Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)

@@ -1,0 +1,59 @@
+# Git e Versionamento
+> Anotação desenvolvida durante meus estudos de Git e GitHub no projeto Roadmap 365.
+
+## O que é Versionamento?
+
+Versionamento é o processo de registrar e gerenciar as alterações realizadas em um projeto ao longo do tempo. Ele permite acompanhar o histórico das modificações, identificar quem realizou cada alteração e recuperar versões anteriores quando necessário.
+
+---
+
+## O que é Git?
+
+Git é um **Sistema de Controle de Versão Distribuído (DVCS)** que registra e gerencia o histórico de um projeto. Cada desenvolvedor possui uma cópia completa do repositório em sua máquina, podendo trabalhar mesmo sem conexão com a internet.
+
+---
+
+## Principais vantagens
+
+* Registro completo do histórico de alterações.
+* Recuperação de versões anteriores.
+* Trabalho colaborativo entre desenvolvedores.
+* Redução do risco de perda de código.
+* Funcionamento offline.
+* Padrão amplamente utilizado no desenvolvimento de software.
+
+---
+
+## Exemplo
+
+**Sem versionamento:**
+
+```text
+projeto.zip
+projeto_final.zip
+projeto_final2.zip
+```
+
+**Com Git:**
+
+```text
+Projeto
+├── Commit 1
+├── Commit 2
+└── Commit 3
+```
+
+Cada **commit** representa um ponto da evolução do projeto, permitindo navegar entre versões sem criar diversas cópias dos arquivos.
+
+---
+
+## Curiosidade:
+Todo repositório Git possui uma pasta oculta chamada `.git`, onde ficam armazenadas todas as informações de versionamento do projeto.
+
+--- 
+
+## Referências
+
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Documentação oficial do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub — Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)

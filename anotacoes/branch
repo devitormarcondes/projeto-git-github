@@ -1,0 +1,53 @@
+# Branches
+> Anotação desenvolvida durante meus estudos de Git e GitHub no projeto Roadmap 365.
+
+---
+
+## O que é uma Branch?
+
+Uma **branch** é uma ramificação do projeto que permite desenvolver funcionalidades, corrigir bugs ou realizar testes de forma isolada, sem modificar diretamente a `main`.
+
+---
+
+## Fluxo de trabalho
+
+1. Criar uma branch.
+2. Desenvolver a funcionalidade.
+3. Realizar commits.
+4. Publicar a branch no GitHub.
+5. Fazer o Merge após os testes.
+
+---
+
+## Operações principais
+
+| Operação           | Função                                                    |
+| :----------------- | :-------------------------------------------------------- |
+| **New Branch**     | Cria uma nova branch.                                     |
+| **Switch Branch**  | Alterna entre branches.                                   |
+| **Publish Branch** | Publica a branch no repositório remoto pela primeira vez. |
+| **Merge**          | Une duas branches.                                        |
+
+---
+
+## Merge e Conflitos
+
+* **Merge** une as alterações de uma branch à outra.
+* **Conflitos** ocorrem quando o Git não consegue combinar automaticamente alterações feitas em duas branches e exige intervenção do desenvolvedor.
+
+---
+
+## Resumo
+
+* A `main` representa a versão principal do projeto.
+* Cada funcionalidade deve ser desenvolvida em uma branch própria.
+* Após os testes, a branch é integrada à `main` por meio do **Merge**.
+* Esse fluxo reduz riscos e facilita o desenvolvimento colaborativo.
+
+---
+
+## Referências
+
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Documentação oficial do GitHub](https://docs.github.com/)
+- [Curso de Git e GitHub — Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
